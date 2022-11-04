@@ -1,11 +1,11 @@
 package Textbase_Game;
 
+
 import java.util.Random;
 import java.util.Scanner;
 
 public class Texbase_GameTest {
     public static void main(String[] args) {
-
         // System Objects
         // System.in is for input
         Scanner in = new Scanner(System.in);
